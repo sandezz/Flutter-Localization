@@ -1,6 +1,6 @@
-# pm
+# Flutter App with Localization
 
-A new Flutter project.
+A new Flutter project to brush up on flutter.
 
 ## Getting Started
 
